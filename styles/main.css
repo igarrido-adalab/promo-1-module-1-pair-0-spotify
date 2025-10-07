@@ -17,3 +17,14 @@
   background-color: #519cf0;
   color: #ffffff;
 }
+
+.footer {
+  background-color: #000;
+  color: #fff;
+}
+.copy {
+  font-size: 0.75rem;
+}
+.copy-spain-flag {
+  width: 1rem;
+}
